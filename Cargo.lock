@@ -37,6 +37,14 @@ dependencies = [
 ]
 
 [[package]]
+name = "pinocchio-metadata"
+version = "0.2.0"
+dependencies = [
+ "pinocchio",
+ "pinocchio-pubkey",
+]
+
+[[package]]
 name = "pinocchio-pubkey"
 version = "0.2.1"
 dependencies = [
