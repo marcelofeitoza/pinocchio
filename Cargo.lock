@@ -37,7 +37,7 @@ dependencies = [
 ]
 
 [[package]]
-name = "pinocchio-metadata"
+name = "pinocchio-mpl-metadata"
 version = "0.2.0"
 dependencies = [
  "pinocchio",

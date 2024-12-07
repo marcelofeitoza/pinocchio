@@ -1,6 +1,6 @@
 [package]
-name = "pinocchio-metadata"
-description = "Pinocchio helpers to invoke Token program instructions"
+name = "pinocchio-mpl-metadata"
+description = "Pinocchio helpers to invoke MPL Metadata program instructions"
 version = "0.2.0"
 edition = { workspace = true }
 license = { workspace = true }
