@@ -1,9 +1,10 @@
 [workspace]
 resolver = "2"
 members = [
+    "programs/mpl-metadata",
+    "programs/mpl-token-metadata-context-derive",
     "programs/system",
     "programs/token",
-    "programs/mpl-metadata",
     "sdk/log/crate",
     "sdk/log/macro",
     "sdk/pinocchio",
