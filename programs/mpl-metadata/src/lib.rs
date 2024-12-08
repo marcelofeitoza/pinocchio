@@ -1,7 +1,7 @@
 #![no_std]
 
 pub mod instructions;
-pub mod accounts;
+pub mod state;
 
 pinocchio_pubkey::declare_id!("metaqbxxUerdq28cj1RbAWkYQm3ybzjb6a8bt518x1s");
 
